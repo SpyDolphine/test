@@ -7,7 +7,7 @@
 <meta charset="UTF-8"> 
 <title>GitHub 실습</title>
 </head>
-<body>
+<body>  
 
 </body>
 </html>
