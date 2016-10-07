@@ -5,7 +5,7 @@
 <html lang="ko"> 
 <head> 
 <meta charset="UTF-8"> 
-<title>GitHub 실습 2</title>
+<title>GitHub 실습 3</title>
 </head>
 <body>  
  
